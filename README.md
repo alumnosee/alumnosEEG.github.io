@@ -1,2 +1,2 @@
-# alumnosEEG.github.io
+# alumnoseeg.github.io
 crear base de datos
